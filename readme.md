@@ -13,4 +13,4 @@ Project Configuration > C/C++ > General > Additional Include Directories
 Project Configuration > Linker > General > Additional Library Directories
 ```
 
-This project developed and tested on Windows only
+This project was developed and tested on Windows only
