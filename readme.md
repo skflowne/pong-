@@ -13,4 +13,4 @@ Project Configuration > C/C++ > General > Additional Include Directories
 Project Configuration > Linker > General > Additional Library Directories
 ```
 
-The rest *should* work, unless you're not on Windows, in which case I hope you know more than me about C++ project building on Mac/Linux
+This project developed and tested on Windows only
